@@ -1,0 +1,11 @@
+{
+  "name": "secure-glb-scripts",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "description": "Node.js AES-256-GCM pre-encryption tools for the secure GLB viewer",
+  "scripts": {
+    "encrypt": "node encrypt.js",
+    "mask": "node mask_key.js"
+  }
+}
