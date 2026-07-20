@@ -1,0 +1,10 @@
+.idea/
+.junie/
+
+**/node_modules/
+**/dist/
+
+wasm_decrypt/target/
+
+.DS_Store
+Thumbs.db
